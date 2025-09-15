@@ -1,7 +1,6 @@
-name: sample-flask
+name: draft
 services:
 - name: web
   github:
     repo: drcabana/draft
     branch: main
-    

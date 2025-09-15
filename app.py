@@ -1,29 +1,27 @@
 from flask import Flask, render_template, request
-import subprocess
+import pandas as pd
 
 app = Flask(__name__)
+df = pd.read_csv('data_2024.csv')
+
+def rank(df, category):
+    boorda = df[['votes', category]]
+    result = boorda.groupby(category).sum().sort_values(by='votes',ascending=False)
+    if category == 'college' or category == 'pfr_player_name':
+        return result.head(20)
+    else:
+        return result
 
 @app.route('/', methods=['GET', 'POST'])
 def index():
     selection = None
-    output = None
     error = None
+    output = None
     if request.method == 'POST':
         selection = request.form.get('query_choice')
         if selection:
             try:
-                result = subprocess.run(
-                    ['python', 'boorda.py', f'{selection}'],
-                    capture_output=True,
-                    text=True,
-                    timeout=5  # Prevent long-running scripts
-                )
-                output = result.stdout
-                error = result.stderr if result.stderr else None
-            except subprocess.TimeoutExpired:
-                error = "Error: Program took too long to execute."
-            except FileNotFoundError:
-                error = f"Error: {selection}.py not found."
+                output = rank(df, selection)
             except Exception as e:
                 error = f"Error: {str(e)}"
     return render_template("index.html", selection=selection, output=output, error=error)

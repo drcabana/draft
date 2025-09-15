@@ -1,0 +1,258 @@
+pick,team,pfr_player_name,position,college,side,votes
+1,CHI,Caleb Williams,QB,USC,O,257
+2,WAS,Jayden Daniels,QB,LSU,O,256
+3,NWE,Drake Maye,QB,North Carolina,O,255
+4,ARI,Marvin Harrison Jr.,WR,Ohio St.,O,254
+5,LAC,Joe Alt,OL,Notre Dame,O,253
+6,NYG,Malik Nabers,WR,LSU,O,252
+7,TEN,JC Latham,OL,Alabama,O,251
+8,ATL,Michael Penix,QB,Washington,O,250
+9,CHI,Rome Odunze,WR,Washington,O,249
+10,MIN,J.J. McCarthy,QB,Michigan,O,248
+11,NYJ,Olumuyiwa Fashanu,OL,Penn St.,O,247
+12,DEN,Bo Nix,QB,Oregon,O,246
+13,LVR,Brock Bowers,TE,Georgia,O,245
+14,NOR,Taliese Fuaga,OL,Oregon St.,O,244
+15,IND,Laiatu Latu,DL,UCLA,D,243
+16,SEA,Byron Murphy,DL,Texas,D,242
+17,MIN,Dallas Turner,LB,Alabama,D,241
+18,CIN,Amarius Mims,OL,Georgia,O,240
+19,LAR,Jared Verse,DL,Florida St.,D,239
+20,PIT,Troy Fautanu,OL,Washington,O,238
+21,MIA,Chop Robinson,DE,Penn St.,D,237
+22,PHI,Quinyon Mitchell,CB,Toledo,D,236
+23,JAX,Brian Thomas,WR,LSU,O,235
+24,DET,Terrion Arnold,DB,Alabama,D,234
+25,GNB,Jordan Morgan,OL,Arizona,O,233
+26,TAM,Graham Barton,OL,Duke,O,232
+27,ARI,Darius Robinson,DL,Missouri,D,231
+28,KAN,Xavier Worthy,WR,Texas,O,230
+29,DAL,Tyler Guyton,OL,Oklahoma,O,229
+30,BAL,Nate Wiggins,CB,Clemson,D,228
+31,SFO,Ricky Pearsall,WR,Florida,O,227
+32,CAR,Xavier Legette,WR,South Carolina,O,226
+33,BUF,Keon Coleman,WR,Florida St.,O,225
+34,LAC,Ladd McConkey,WR,Georgia,O,224
+35,ATL,Ruke Orhorhoro,DT,Clemson,D,223
+36,WAS,Jer'Zhan Newton,DL,Illinois,D,222
+37,NWE,Ja'Lynn Polk,WR,Washington,O,221
+38,TEN,T'Vondre Sweat,DL,Texas,D,220
+39,LAR,Braden Fiske,DL,Florida St.,D,219
+40,PHI,Cooper DeJean,DB,Iowa,D,218
+41,NOR,Kool-Aid McKinstry,DB,Alabama,D,217
+42,HOU,Kamari Lassiter,DB,Georgia,D,216
+43,ARI,Max Melton,DB,Rutgers,D,215
+44,LVR,Jackson Powers-Johnson,OL,Oregon,O,214
+45,GNB,Edgerrin Cooper,LB,Texas A&M,D,213
+46,CAR,Jonathon Brooks,RB,Texas,O,212
+47,NYG,Tyler Nubin,DB,Minnesota,D,211
+48,JAX,Maason Smith,DT,LSU,D,210
+49,CIN,Kris Jenkins,DL,Michigan,D,209
+50,WAS,Mike Sainristil,DB,Michigan,D,208
+51,PIT,Zach Frazier,OL,West Virginia,O,207
+52,IND,Adonai Mitchell,WR,Texas,O,206
+53,WAS,Ben Sinnott,TE,Kansas St.,O,205
+54,CLE,Michael Hall,DT,Ohio St.,D,204
+55,MIA,Patrick Paul,OL,Houston,O,203
+56,DAL,Marshawn Kneeland,DL,Western Michigan,D,202
+57,TAM,Chris Braswell,LB,Alabama,D,201
+58,GNB,Javon Bullard,DB,Georgia,D,200
+59,HOU,Blake Fisher,OL,Notre Dame,O,199
+60,BUF,Cole Bishop,SAF,Utah,D,198
+61,DET,Ennis Rakestraw,DB,Missouri,D,197
+62,BAL,Roger Rosengarten,OL,Washington,O,196
+63,KAN,Kingsley Suamataia,OL,BYU,O,195
+64,SFO,Renardo Green,DB,Florida St.,D,194
+65,NYJ,Malachi Corley,WR,Western Kentucky,O,193
+66,ARI,Trey Benson,RB,Florida St.,O,192
+67,WAS,Brandon Coleman,OL,TCU,O,191
+68,NWE,Caedan Wallace,OL,Penn St.,O,190
+69,LAC,Junior Colson,LB,Michigan,D,189
+70,NYG,Andru Phillips,DB,Kentucky,D,188
+71,ARI,Isaiah Adams,OL,Illinois,O,187
+72,CAR,Trevin Wallace,LB,Kentucky,D,186
+73,DAL,Cooper Beebe,OL,Kansas St.,O,185
+74,ATL,Bralen Trice,DE,Washington,D,184
+75,CHI,Kiran Amegadjie,OL,Yale,O,183
+76,DEN,Jonah Elliss,DE,Utah,D,182
+77,LVR,Delmar Glaze,OL,Maryland,O,181
+78,HOU,Calen Bullock,SAF,USC,D,180
+79,IND,Matt Goncalves,OL,Pittsburgh,O,179
+80,CIN,Jermaine Burton,WR,Alabama,O,178
+81,SEA,Christian Haynes,OL,Connecticut,O,177
+82,ARI,Tip Reiman,TE,Illinois,O,176
+83,LAR,Blake Corum,RB,Michigan,O,175
+84,PIT,Roman Wilson,WR,Michigan,O,174
+85,CLE,Zak Zinter,OL,Michigan,O,173
+86,SFO,Dominick Puni,OL,Kansas,O,172
+87,DAL,Marist Liufau,LB,Notre Dame,D,171
+88,GNB,MarShawn Lloyd,RB,USC,O,170
+89,TAM,Tykee Smith,DB,Georgia,D,169
+90,ARI,Elijah Jones,DB,Boston Col.,D,168
+91,GNB,Ty'Ron Hopper,LB,Missouri,D,167
+92,TAM,Jalen McMillan,WR,Washington,O,166
+93,BAL,Adisa Isaac,DE,Penn St.,D,165
+94,PHI,Jalyx Hunt,DE,Houston Christian,D,164
+95,BUF,DeWayne Carter,DT,Duke,D,163
+96,JAX,Jarrian Jones,DB,Florida St.,D,162
+97,CIN,McKinnley Jackson,DL,Texas A&M,D,161
+98,PIT,Payton Wilson,LB,North Carolina St.,D,160
+99,LAR,Kamren Kinchens,SAF,Miami (FL),D,159
+100,WAS,Luke McCaffrey,WR,Rice,O,158
+101,CAR,Ja'Tavion Sanders,TE,Texas,O,157
+102,DEN,Troy Franklin,WR,Oregon,O,156
+103,NWE,Layden Robinson,OL,Texas A&M,O,155
+104,ARI,Dadrion Taylor-Demerson,DB,Texas Tech,D,154
+105,LAC,Justin Eboigbe,DL,Alabama,D,153
+106,TEN,Cedric Gray,LB,North Carolina,D,152
+107,NYG,Theo Johnson,TE,Penn St.,O,151
+108,MIN,Khyree Jackson,DB,Oregon,D,150
+109,ATL,Brandon Dorlus,DE,Oregon,D,149
+110,NWE,Javon Baker,WR,Central Florida,O,148
+111,GNB,Evan Williams,DB,Oregon,D,147
+112,LVR,Decamerion Richardson,CB,Mississippi St.,D,146
+113,BAL,Devontez Walker,WR,North Carolina,O,145
+114,JAX,Javon Foster,OL,Missouri,O,144
+115,CIN,Erick All,TE,Iowa,O,143
+116,JAX,Jordan Jefferson,DT,LSU,D,142
+117,IND,Tanor Bortolini,OL,Wisconsin,O,141
+118,SEA,Tyrice Knight,LB,Texas-El Paso,D,140
+119,PIT,Mason McCormick,OL,South Dakota St.,O,139
+120,MIA,Jaylen Wright,RB,Tennessee,O,138
+121,SEA,AJ Barner,TE,Michigan,O,137
+122,CHI,Tory Taylor,P,Iowa,S,136
+123,HOU,Cade Stover,TE,Ohio St.,O,135
+124,SFO,Malik Mustapha,DB,Wake Forest,D,134
+125,TAM,Bucky Irving,RB,Oregon,O,133
+126,DET,Giovanni Manu,OL,British Columbia,O,132
+127,PHI,Will Shipley,RB,Clemson,O,131
+128,BUF,Ray Davis,RB,Kentucky,O,130
+129,SFO,Isaac Guerendo,RB,Louisville,O,129
+130,BAL,T.J. Tampa,DB,Iowa St.,D,128
+131,KAN,Jared Wiley,TE,TCU,O,127
+132,DET,Sione Vaki,SAF,Utah,D,126
+133,KAN,Jaden Hicks,DB,Washington St.,D,125
+134,NYJ,Braelon Allen,RB,Wisconsin,O,124
+135,SFO,Jacob Cowing,WR,Arizona,O,123
+136,SEA,Nehemiah Pritchett,CB,Auburn,D,122
+137,LAC,Tarheeb Still,DB,Maryland,D,121
+138,ARI,Xavier Thomas,DE,Clemson,D,120
+139,WAS,Jordan Magee,LB,Temple,D,119
+140,LAC,Cam Hart,CB,Notre Dame,D,118
+141,BUF,Sedrick Van Pran-Granger,OL,Georgia,O,117
+142,IND,Anthony Gould,WR,Oregon St.,O,116
+143,ATL,JD Bertrand,LB,Notre Dame,D,115
+144,CHI,Austin Booker,DL,Kansas,D,114
+145,DEN,Kris Abrams-Draine,DB,Missouri,D,113
+146,TEN,Jarvis Brownlee,DB,Louisville,D,112
+147,DEN,Audric Estime,RB,Notre Dame,O,111
+148,LVR,Tommy Eichenberg,LB,Ohio St.,D,110
+149,CIN,Josh Newton,CB,TCU,D,109
+150,NOR,Spencer Rattler,QB,South Carolina,O,108
+151,IND,Jaylon Carlies,DB,Missouri,D,107
+152,PHI,Ainias Smith,WR,Texas A&M,O,106
+153,JAX,Deantre Prince,CB,Mississippi,D,105
+154,LAR,Brennan Jackson,DE,Washington St.,D,104
+155,PHI,Jeremiah Trotter Jr.,LB,Clemson,D,103
+156,CLE,Jamari Thrash,WR,Louisville,O,102
+157,CAR,Chau Smith-Wade,DB,Washington St.,D,101
+158,MIA,Mohamed Kamara,DL,Colorado St.,D,100
+159,KAN,Hunter Nourzad,OL,Penn St.,O,99
+160,BUF,Edefuan Ulofoshio,LB,Washington,D,98
+161,WAS,Dominique Hampton,CB,Washington,D,97
+162,ARI,Christian Jones,OL,Texas,O,96
+163,GNB,Jacob Monk,OL,Duke,O,95
+164,IND,Jaylin Simpson,SAF,Auburn,D,94
+165,BAL,Rasheen Ali,RB,Marshall,O,93
+166,NYG,Tyrone Tracy Jr.,RB,Purdue,O,92
+167,JAX,Keilan Robinson,RB,Texas,O,91
+168,BUF,Javon Solomon,DE,Troy,D,90
+169,GNB,Kitan Oladapo,DB,Oregon St.,D,89
+170,NOR,Bub Means,WR,Pittsburgh,O,88
+171,NYJ,Jordan Travis,QB,Florida St.,O,87
+172,PHI,Trevor Keegan,OL,Michigan,O,86
+173,NYJ,Isaiah Davis,RB,South Dakota St.,O,85
+174,DAL,Caelen Carson,DB,Wake Forest,D,84
+175,NOR,Jaylan Ford,LB,Texas,D,83
+176,NYJ,Qwan'tez Stiggers,CB,,D,82
+177,MIN,Walter Rouse,OL,Oklahoma,O,81
+178,PIT,Logan Lee,DL,Iowa,D,80
+179,SEA,Sataoa Laumea,OL,Utah,O,79
+180,NWE,Marcellas Dial,DB,South Carolina,D,78
+181,LAC,Kimani Vidal,RB,Troy,O,77
+182,TEN,Jha'Quan Jackson,WR,Tulane,O,76
+183,NYG,Darius Muasau,LB,UCLA,D,75
+184,MIA,Malik Washington,WR,Virginia,O,74
+185,PHI,Johnny Wilson,WR,Florida St.,O,73
+186,ATL,Jase McClellan,RB,Alabama,O,72
+187,ATL,Casey Washington,WR,Illinois,O,71
+188,HOU,Jamal Hill,LB,Oregon,D,70
+189,DET,Mekhi Wingo,DT,LSU,D,69
+190,PHI,Dylan McMahon,OL,North Carolina St.,O,68
+191,ARI,Tejhaun Palmer,WR,Ala-Birmingham,O,67
+192,SEA,D.J. James,CB,Auburn,D,66
+193,NWE,Joe Milton,QB,Tennessee,O,65
+194,CIN,Tanner McLachlan,TE,Arizona,O,64
+195,PIT,Ryan Watts,SAF,Texas,D,63
+196,LAR,Tyler Davis,DT,Clemson,D,62
+197,ATL,Zion Logue,DL,Georgia,D,61
+198,MIA,Patrick McMorris,DB,California,D,60
+199,NOR,Khristian Boyd,DL,Northern Iowa,D,59
+200,CAR,Jaden Crumedy,DT,Mississippi St.,D,58
+201,IND,Micah Abraham,CB,Marshall,D,57
+202,GNB,Travis Glover,OT,Georgia St.,O,56
+203,MIN,Will Reichard,K,Alabama,S,55
+204,BUF,Tylan Grable,OL,Central Florida,O,54
+205,HOU,Jawhar Jordan,RB,Louisville,O,53
+206,CLE,Nathaniel Watson,LB,Mississippi St.,D,52
+207,SEA,Michael Jerrell,OT,Findlay,O,51
+208,LVR,Dylan Laube,RB,New Hampshire,O,50
+209,LAR,Joshua Karty,K,Stanford,S,49
+210,DET,Christian Mahogany,OL,Boston Col.,O,48
+211,KAN,Kamal Hadden,DB,Tennessee,D,47
+212,JAX,Cam Little,K,Arkansas,S,46
+213,LAR,Jordan Whittington,WR,Texas,O,45
+214,CIN,Cedric Johnson,DE,Mississippi,D,44
+215,SFO,Jarrett Kingston,OL,USC,O,43
+216,DAL,Ryan Flournoy,WR,SE Missouri St.,O,42
+217,LAR,Beaux Limmer,OL,Arkansas,O,41
+218,BAL,Devin Leary,QB,Kentucky,O,40
+219,BUF,Daequan Hardy,CB,Penn St.,D,39
+220,TAM,Elijah Klein,OG,Texas-El Paso,,38
+221,BUF,Travis Clayton,OT,,O,37
+222,WAS,Javontae Jean-Baptiste,DL,Notre Dame,D,36
+223,LVR,Trey Taylor,FS,Air Force,,35
+224,CIN,Daijahn Anthony,SAF,Mississippi,D,34
+225,LAC,Brenden Rice,WR,USC,O,33
+226,ARI,Jaden Davis,DB,Miami (FL),D,32
+227,CLE,Myles Harden,DB,South Dakota,D,31
+228,BAL,Nick Samac,C,Michigan St.,O,30
+229,LVR,M.J. Devonshire,DB,Pittsburgh,D,29
+230,MIN,Michael Jurgens,OL,Wake Forest,O,28
+231,NWE,Jaheim Bell,TE,Florida St.,O,27
+232,MIN,Levi Drake Rodriguez,DT,Texas A&M-Commerce,D,26
+233,DAL,Nathan Thomas,OL,Louisiana,O,25
+234,IND,Jonah Laulu,DL,Oklahoma,D,24
+235,DEN,Devaughn Vele,WR,Utah,O,23
+236,JAX,Myles Cole,OLB,Texas Tech,D,22
+237,CIN,Matt Lee,C,Miami (FL),O,21
+238,HOU,Solomon Byrd,DE,USC,D,20
+239,NOR,Josiah Ezirim,OT,Eastern Kentucky,O,19
+240,CAR,Michael Barrett,LB,Michigan,D,18
+241,MIA,Tahj Washington,WR,USC,O,17
+242,TEN,James Williams,SAF,Miami (FL),D,16
+243,CLE,Jowon Briggs,DE,Cincinnati,D,15
+244,DAL,Justin Rogers,DL,Auburn,D,14
+245,GNB,Michael Pratt,QB,Tulane,O,13
+246,TAM,Devin Culp,TE,Washington,O,12
+247,HOU,Marcus Harris,DL,Auburn,D,11
+248,KAN,C.J. Hanson,OG,Holy Cross,,10
+249,HOU,LaDarius Henderson,OL,Michigan,O,9
+250,BAL,Sanoussi Kane,SAF,Purdue,D,8
+251,SFO,Tatum Bethune,LB,Florida St.,D,7
+252,TEN,Jaylen Harrell,DE,Michigan,D,6
+253,LAC,Cornelius Johnson,WR,Michigan,O,5
+254,LAR,KT Leveston,OL,Kansas St.,O,4
+255,GNB,Kalen King,CB,Penn St.,D,3
+256,DEN,Nick Gargiulo,OL,South Carolina,O,2
+257,NYJ,Jaylen Key,SAF,Alabama,D,1
