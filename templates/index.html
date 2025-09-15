@@ -54,7 +54,7 @@
         padding: 50px;
         min-height: 100vh;
         position: relative;
-        color: #fff;
+        color: #014353;
         font-family: "Nunito Sans", sans-serif;
         font-size: 19px;
         }
@@ -93,10 +93,6 @@
         grid-template-rows: repeat(4, 1fr);
         transform: skewY(-12deg);
         transform-origin: 0;
-        }
-
-        #stripes span {
-        /* border: 1px solid #c00c00; */
         }
 
         #stripes span:first-child {
@@ -170,84 +166,6 @@
         color: #dbf1f5;
         }
 
-        .links {
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        gap: 20px;
-        }
-
-        .links a {
-        position: relative;
-        display: block;
-        background: rgba(255, 255, 255, 0.85);
-        border-radius: 5px;
-        padding: 20px;
-        font-size: 1.1rem;
-        text-decoration: none;
-        color: #222;
-        transition: 0.3s ease all;
-        overflow: hidden;
-        }
-
-        .links a:before,
-        .links a:after {
-        font-size: 40px;
-        display: block;
-        position: absolute;
-        }
-
-        .links a:before {
-        content: "";
-        top: -80%;
-        right: -150px;
-        width: 250px;
-        height: 250px;
-        background: rgba(125, 236, 255, 0.6);
-        pointer-events: none;
-        transform: rotate(-25deg);
-        transition: 0.4s cubic-bezier(0.34, 0.31, 0, 1.81) transform;
-        }
-
-        .links a:after {
-        content: "👉";
-        top: 0;
-        bottom: 0;
-        display: flex;
-        align-items: center;
-        right: 30px;
-        transform: translateX(80px);
-        transition: 0.3s cubic-bezier(0.34, 0.31, 0, 1.81) transform;
-        }
-
-        .links a:hover {
-        background: rgba(255, 255, 255, 0.9);
-        box-shadow: 5px 5px 0 rgba(0, 0, 0, 0.5);
-        }
-
-        .links a:hover:before {
-        transform: rotate(-25deg) translateX(60px);
-        }
-
-        .links a:hover:after {
-        transform: none;
-        }
-
-        .links a strong,
-        .links a span {
-        position: relative;
-        z-index: 1;
-        }
-
-        .links a strong {
-        font-weight: bold;
-        display: block;
-        margin-bottom: 5px;
-        }
-
-        .links a span {
-        color: #787878;
-        font-size: 0.9rem;
-        }
     </style>
 </body>
 </html>
